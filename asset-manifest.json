@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lotrsweb/static/css/main.61550fe1.chunk.css",
+    "main.js": "/lotrsweb/static/js/main.3dfa39f7.chunk.js",
+    "main.js.map": "/lotrsweb/static/js/main.3dfa39f7.chunk.js.map",
+    "runtime-main.js": "/lotrsweb/static/js/runtime-main.3c292ea8.js",
+    "runtime-main.js.map": "/lotrsweb/static/js/runtime-main.3c292ea8.js.map",
+    "static/js/2.a0bcda5d.chunk.js": "/lotrsweb/static/js/2.a0bcda5d.chunk.js",
+    "static/js/2.a0bcda5d.chunk.js.map": "/lotrsweb/static/js/2.a0bcda5d.chunk.js.map",
+    "index.html": "/lotrsweb/index.html",
+    "static/css/main.61550fe1.chunk.css.map": "/lotrsweb/static/css/main.61550fe1.chunk.css.map",
+    "static/js/2.a0bcda5d.chunk.js.LICENSE.txt": "/lotrsweb/static/js/2.a0bcda5d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c292ea8.js",
+    "static/js/2.a0bcda5d.chunk.js",
+    "static/css/main.61550fe1.chunk.css",
+    "static/js/main.3dfa39f7.chunk.js"
+  ]
+}
