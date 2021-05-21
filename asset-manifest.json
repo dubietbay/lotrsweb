@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/lotrsweb/static/css/main.7fd119cb.chunk.css",
-    "main.js": "/lotrsweb/static/js/main.3dfa39f7.chunk.js",
-    "main.js.map": "/lotrsweb/static/js/main.3dfa39f7.chunk.js.map",
+    "main.css": "/lotrsweb/static/css/main.4813a266.chunk.css",
+    "main.js": "/lotrsweb/static/js/main.6876951c.chunk.js",
+    "main.js.map": "/lotrsweb/static/js/main.6876951c.chunk.js.map",
     "runtime-main.js": "/lotrsweb/static/js/runtime-main.3c292ea8.js",
     "runtime-main.js.map": "/lotrsweb/static/js/runtime-main.3c292ea8.js.map",
     "static/js/2.a0bcda5d.chunk.js": "/lotrsweb/static/js/2.a0bcda5d.chunk.js",
     "static/js/2.a0bcda5d.chunk.js.map": "/lotrsweb/static/js/2.a0bcda5d.chunk.js.map",
     "index.html": "/lotrsweb/index.html",
-    "static/css/main.7fd119cb.chunk.css.map": "/lotrsweb/static/css/main.7fd119cb.chunk.css.map",
+    "static/css/main.4813a266.chunk.css.map": "/lotrsweb/static/css/main.4813a266.chunk.css.map",
     "static/js/2.a0bcda5d.chunk.js.LICENSE.txt": "/lotrsweb/static/js/2.a0bcda5d.chunk.js.LICENSE.txt",
     "static/media/App.css": "/lotrsweb/static/media/c.18326890.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3c292ea8.js",
     "static/js/2.a0bcda5d.chunk.js",
-    "static/css/main.7fd119cb.chunk.css",
-    "static/js/main.3dfa39f7.chunk.js"
+    "static/css/main.4813a266.chunk.css",
+    "static/js/main.6876951c.chunk.js"
   ]
 }
